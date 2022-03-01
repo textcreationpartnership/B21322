@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From the Lady Eleanor, her blessing, to her beloved davghter the Right Honorable Lvcy, Covntesse of Huntingdon.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21322</idno>
+            <idno type="STC">Wing D1991</idno>
+            <idno type="EEBO-CITATION">11926301</idno>
+            <idno type="OCLC">ocm 11926301</idno>
+            <idno type="VID">196458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 229:E10, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From the Lady Eleanor, her blessing, to her beloved davghter the Right Honorable Lvcy, Covntesse of Huntingdon.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication taken from BM.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huntingdon, Lucy Davies Hastings, --  Countess of, d. 1679.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196458:1"/>
+            <pb facs="tcp:196458:1" rendition="simple:additions"/>
+            <p>FROM THE LADY ELEANOR, HER BLESSING TO HER BELOVED <hi>DA<g ref="char:V">Ʋ</g>GHTER;</hi> The Right HONORABLE <hi>L<g ref="char:V">Ʋ</g>CY,</hi> COVNTESSE OF Huntingdon.</p>
+            <p>The Prophet DANIELS <hi>Viſsion:</hi> Chap. 7. <hi>Jn the firſt yeare of</hi> Belchazer <hi>REX, &amp;c.</hi>
+            </p>
+            <p>Printed in the Yeare, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196458:2"/>
+            <pb n="3" facs="tcp:196458:2"/>
+            <head>FROM THE LADY ELEANOR, HER <hi>BLESSJNG</hi> to Her beloved Daughter, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hoſe new Interpretati<g ref="char:EOLhyphen"/>on, not with <hi>Froath</hi> filled up, or Interlar<g ref="char:EOLhyphen"/>ded with differing Opinions of others, ſuch old peices having No affinity <hi>and</hi> agreement <hi>with</hi> this BRITISH <hi>gar<g ref="char:EOLhyphen"/>ments</hi> or diſplayed COATE <hi>by bleſſed Prophets pend:</hi> So what the <hi>
+                  <g ref="char:V">Ʋ</g>eritie</hi> of thoſe <hi>fouer great Beaſts,</hi> divers one <hi>from</hi>
+               <pb n="4" facs="tcp:196458:3"/>another, <hi>which ſhould ariſe &amp;c. Whoſo would underſtand &amp; know their miſtery for this very time reſerved, hitherto with</hi> the <hi>Kingdome of Heavens great ſeale ſhut up.</hi>
+            </p>
+            <p>Diſtinguiſhing not only <hi>Nations</hi> but <hi>Times:</hi> The very truth of it: N'o<g ref="char:EOLhyphen"/>ther then the ſeverall Coate, Armes, <hi>given or borne by him,</hi> the firſt of great <hi>Brittains Kingdoms or Monarchie.</hi>
+            </p>
+            <p>Not unlike <hi>Jacobs united Familie his Wives<g ref="char:punc">▪</g> Children, and Children of the Hand-maids.</hi> The aforeſaid Crowns foure, <hi>concerning whoſe peice of ſuper-ar<g ref="char:EOLhyphen"/>tificiall Heraldry unknown to thoſe Heralds of the King of great Babylon (Dan.</hi> 3.) e<g ref="char:EOLhyphen"/>ven at hand proclame the ancient of dayes, <hi>the aproach of that great day of his. So goe thy way</hi> Daniel, <hi>for the words are cloſed up and ſealed till the time of the end,</hi>
+               <pb n="5" facs="tcp:196458:3"/>which: <hi>Not only the Time,</hi> but unfolds unto what <hi>Nation</hi> or <hi>Language,</hi> revea<g ref="char:EOLhyphen"/>led thoſe glad Tydings, as <hi>by the Word (Sealed)</hi> given to underſtand thereby. <hi>Even where the great Seale the Jmpresſion thereof, thoſe fouer Coates or</hi> Beaſts, <hi>ſtyled Kings which ſhall ariſe, &amp;c.</hi> And the <hi>Coine</hi> ſtampt therwith and the like, &amp;c.</p>
+            <p>And ſo the firſt <hi>in the likeneſſe of a Lyon with Eagels wings, &amp;c.</hi> firſt diſplays the armes of <hi>England</hi> and <hi>France,</hi> and then <hi>ſtanding upon the feet like a man,</hi> a Lyon rampant (to wit) <hi>Scotlands coate,</hi> where the other the <hi>Jriſh</hi> Inſtrument, or Harpe evident alſo out of Tune, &amp;c. That no need to ſay, <hi>J am Joſeph,</hi> or o<g ref="char:EOLhyphen"/>ver-verball to be in this caſe.</p>
+            <p>No more requiſit then their asking
+<pb n="6" facs="tcp:196458:4"/>either whether or no thy ſonns coate this of ſo many colours or peices, as in the field, now thoſe inumerable co<g ref="char:EOLhyphen"/>lours, &amp;c. That were HE living, our Father <hi>JACOB</hi> would ſay, <hi>ſome evill beaſt had devoured us,</hi> to behold ſuch blood ſhed amongſt brethren and cruelty, as Since the Creation ſuch a flood, the old <hi>Serpent</hi> never caſting out of his mouth, and ſo like <hi>Joſeph ſold to the Midianits,</hi> our wofull eſtate, ſale and rapine made, <hi>by Malignant</hi> bre<g ref="char:EOLhyphen"/>thren <hi>&amp;c.</hi> But ſuch miſerable Ship<g ref="char:EOLhyphen"/>wracke with us being no news, ſhall re<g ref="char:EOLhyphen"/>turne to thoſe miſteries of <hi>Heraldry.</hi>
+            </p>
+            <p>
+               <hi>The frequent Oraments of your Houſe</hi> wherefore to explain them farther, but needleſſe; nor endleſſe Figures <hi>here borrowed out of old Orators Bookes,</hi> ſuffices
+<pb n="7" facs="tcp:196458:4"/>for figurative Demonſtrations ſuch, <hi>to render their meaning truly, running the way of the plaine rather for the ancient of dayes his comming to prepare the way.</hi> So <hi>for my Commisſion thus.</hi>
+            </p>
+            <p>And farther as to you not unknown eſpecially at what time your Mother became a VVriter or Secretary, con<g ref="char:EOLhyphen"/>cerning the unſealing or interpreting this obſcure peice to open <hi>the Visſion of Daniel, though no obſcure perſons of the ſeed of the KINGS and of PRIN<g ref="char:EOLhyphen"/>CES.</hi> Even in the yeere 1625. under<g ref="char:EOLhyphen"/>taken this burthen, following his ſteps, who declares when <hi>HE</hi> wrote firſt in <hi>BELCHAZARS</hi> firſt yeere, the laſt of thoſe <hi>Caldeans</hi> of great Babylon.</p>
+            <p>
+               <hi>Alſo ſhewed in that great plague yeere, when the City ſhut up:</hi> This Visſion then
+<pb n="8" facs="tcp:196458:5"/>opened, <hi>whereof even</hi> Then a Signe <hi>ro</hi> Token, <hi>not without a touch</hi> given <hi>in thoſe</hi> words. But <hi>thou O Daniel ſhut up, &amp;c. (Dan.</hi> 12.) And thus where every word a <hi>miſtery,</hi> cannot paſſe over <hi>them,</hi> as none of the leaſt His being ſo often ſaluted or ſtiled ſo highly of the <hi>Angel: O Daniel greatly beloved man,</hi> as much to ſay too, <hi>O KJNG of great Britaine!</hi> as Kings and Prophets; Bre<g ref="char:EOLhyphen"/>thren, <hi>Let him that reads</hi> Daniel <hi>under<g ref="char:EOLhyphen"/>ſtand.</hi>
+            </p>
+            <p>And as it extends to this time alſo, beares Date forty foure; directly the preſent <hi>Yeare</hi> as theſe beareing Record of time and place, &amp;c. of whoſe ſtor<g ref="char:EOLhyphen"/>ming daies thus. <hi>And Daniel ſpake and ſaid, J ſaw and behold upon the great</hi> Sea, <hi>the foure Winds ſtrove, and foure great</hi> Beaſts <hi>came up. divers one from another</hi>
+               <pb n="9" facs="tcp:196458:5"/>(to ſay) <hi>from beyond ſea,</hi> the occaſion of ſuch divisſion, ready to be ſwallow'd up in theſe ſwelling Seas.</p>
+            <p>
+               <hi>The firſt like a</hi> LYON, <hi>and Eagels wings,</hi> (Daniel 7.) <hi>J beheld till the</hi> VVings <hi>were pluckt thereof: And lifted up from the Earth, and made ſtand upon the</hi> Feete <hi>like a MAN:</hi> And <hi>a MANS</hi> HEART <hi>was given unto it,</hi> viz. The LYONS Paſſant <hi>(regardant)</hi> turn'd into the Rampant, &amp;c. After her deceaſe, a <hi>Virgin</hi> Prin<g ref="char:EOLhyphen"/>ceſſe of renown'd <hi>MEMORY, ENGLAND</hi> ſtil'd great Britaine, and then theſe foure ſeverall <hi>Coates</hi> given, &amp;c.</p>
+            <p>(And this Sayling on; or purſuing <hi>the</hi> Subject:) <hi>And behold another</hi> Beaſt,
+<pb n="10" facs="tcp:196458:6"/>a <hi>ſecond like to a</hi> BEARE, <hi>and it rai<g ref="char:EOLhyphen"/>ſed it ſelfe upon one ſide: And had three</hi> Ribbs <hi>in the mouth of it, between the teeth of it.</hi> N'other then as it were diſ<g ref="char:EOLhyphen"/>played <hi>The three</hi> LYLLIES: The <hi>Armes of FRANCE,</hi> to the full given by this KINGDOME, where Nothing but a meere Shadow, or the bare Coate of it Left, <hi>Leaves in ſtead of Fruite:</hi> Beſides, how by a She-Beare, as this N'other: Three devi<g ref="char:EOLhyphen"/>ded KINGDOMS rent in peices. The <hi>Ribbe</hi> or <hi>Side,</hi> beares VVitneſſe thereof, The ſecond <hi>SEXE</hi> its Cha<g ref="char:EOLhyphen"/>racter.</p>
+            <p>And ſo farther from <hi>This ſaying, too well prooved;</hi> (<hi>Ariſe and devoure much</hi> FLESH:) even what <hi>Date</hi> it bears needleſſe to ſay: <hi>Her MOTTO
+<pb n="11" facs="tcp:196458:6"/>the Mother not of the</hi> Living <hi>Child,</hi> but of Divisſions <hi>and</hi> Maſſacres, <hi>where</hi> incluſive the ador'd <hi>Sacrament</hi> called the <hi>MASSE:</hi> Thus uttered Her Voice, <hi>Let it bee neither Thine,</hi> nor <hi>Mine, but devide it: deſtroy it utterly, &amp;c.</hi> No ſuch <hi>Coate</hi> then, like to have any Affinitie with <hi>Solomons</hi> Ivory Ra<g ref="char:EOLhyphen"/>ment or Robe: as the <hi>Enſigne of Peace, the</hi> LILLY <hi>of the field,</hi> but rather a Slippe come out of the <hi>Bear-garden,</hi> unworthy to behold the <hi>Sunne:</hi> be<g ref="char:EOLhyphen"/>came <hi>degenerate and ſo wild:</hi> Sometime to none of the <hi>Flowers</hi> of Parradiſe inferiour.</p>
+            <p>And another like <hi>LEOPARD,</hi> Lyon-like <hi>SCOTL ANDS Coate</hi> the truth of it diſplaied Thus: <hi>Which had foure</hi> Heads, <hi>and foure</hi> VVings <hi>on the backe of it,</hi> as it were a Heralds
+<pb n="12" facs="tcp:196458:7"/>Coate, or KING AT ARMS, &amp;c. So great <hi>BRITAJNS</hi> foure KINGDOMS or <hi>Crownes</hi> proclaimes by them: And this the Summe of it; ſhewing Then revealed the time of <hi>END,</hi> when united <hi>Theſe foure aforeſaid, &amp;c. As hereby farther appeares.</hi> (<hi>And</hi> Dominion <hi>was given unto it:</hi>) No ſmall addition, after Her dayes raigning forty foure Yeares, for <hi>Scotland</hi> to give ſuch a Large <hi>Coate</hi> by a Prince as <hi>unfortunate</hi> in His <hi>Progenie</hi> and <hi>Succeſſor;</hi> As in <hi>his Prediſeſſors</hi> or <hi>Parents:</hi> VVhere<g ref="char:EOLhyphen"/>fore liken'd to the LEOPARDS Spoted skinn thoſe ſable ſpots or <hi>drops.</hi>
+            </p>
+            <p>And behold a fourth BEAST like a <hi>HARPYE,</hi> or ſome ſuch <hi>Monſter,</hi> having great <hi>Jron Teeth,</hi>
+               <pb n="13" facs="tcp:196458:7"/>and <hi>Nayls of braſſe,</hi> to be ſhort, <hi>the J<g ref="char:EOLhyphen"/>riſh Harpe demonſtrated,</hi> likewiſe the ve<g ref="char:EOLhyphen"/>ry wreſt as it were a little Horne, of which <hi>Jnſtrument not a little out of tune,</hi> as inſues, ſtamping all underfoote <hi>Gods Law, Humaine Law.</hi>
+            </p>
+            <p>And ſo farre for the <hi>Harpe, Like the very forequarter or ribbs informe or like<g ref="char:EOLhyphen"/>neſſe,</hi> as ſtrung in that manner ribb<g ref="char:EOLhyphen"/>wayes, <hi>whoſe ſhort Horne the expreſſe Character of tirrants of no long continu<g ref="char:EOLhyphen"/>ance,</hi> raiſing up and ſetting lower, like the wreſt according to their will made a law, <hi>changing and altering</hi> when they pleaſe.</p>
+            <p>Informing moreover <hi>concerning the blaſpheming blaſts of the little Horne, that had eies like a man, and ſuch a mouth,</hi> as
+<pb n="14" facs="tcp:196458:8"/>much to ſay, <hi>that mouth ſpeaking ſuch great things, a Womans and no Mans.</hi>
+            </p>
+            <p>Her Proclamations at her com<g ref="char:EOLhyphen"/>mand, <hi>the great Seale, the Elders and the Nobles,</hi> ſo with the Story goeing on of that Idolatrious time, <hi>Come ſee now that curſed Womans ſpirit, ſhe caſt downe, &amp;c. cunjured up,</hi> as it were, <hi>walks up and down,</hi> that like her ſelfe of her unnatu<g ref="char:EOLhyphen"/>rall Dogs, <hi>Acteon</hi> like eaten <hi>(of her none left to bury) Jezebel</hi> by name, <hi>Woe to the Houſe,</hi> whoſe ſignification, ſo no other then a ſtolne peice by the Poet, very like to be, as that for another: <hi>Borrow<g ref="char:EOLhyphen"/>ed from Elias, Elevation, alſo the fable of Phateon,</hi> That <hi>Prophets</hi> being ſought for as though ſome where had falne or miſcarried.</p>
+            <pb n="15" facs="tcp:196458:8"/>
+            <p>Whoſe <hi>miſteries</hi> or <hi>morralls</hi> in ſo high eſteeme among the <hi>Heathen</hi> a<g ref="char:EOLunhyphen"/>gainſt many may riſe in <hi>Judgement,</hi> of <hi>whom reverenced no more Divine Oracles</hi> further more, to weigh or unite thoſe times, <hi>with our heavie dayes, Likewiſe Peace,</hi> though voiced, <hi>Jacobs voice like and the hands of Eſau,</hi> yet ſuch diviſions and ſlaying of all hands, <hi>nothing but peace,</hi> put the queſtion <hi>as though he ſought nothing elſe,</hi> is it peace, <hi>and thus ſaith the King, is it peace.</hi>
+            </p>
+            <p>And ever and againe, <hi>Thus ſaith the KING, &amp;c. Js it peace, JEH<g ref="char:V">Ʋ</g>.</hi> New Propoſitions as it were. And Sir as long as her <hi>Sorcerors</hi> inforce doeing what ſhe pleaſeth, <hi>what haſt thou to doe with peace,</hi> alſo at her laſt caſt (when this Motto, <hi>who is on my ſide</hi> who) <hi>who troode</hi> HER <hi>underfoote,</hi> her inchanting voice,
+<pb n="16" facs="tcp:196458:9"/>
+               <hi>Had he</hi> Peace <hi>that ſlew his</hi> Maſter? (As <hi>it</hi> were <hi>to looke to his</hi> Head) This blood-thirſty Miſtres of <hi>Charmes</hi> and <hi>Spells</hi> like Satans falling thoſe aſpiring Spirits.</p>
+            <p>So alike the time poſſeſt, now ſee what a double portion powr'd out of the curſe what one leavs, another taks, <hi>He that eſcapes the Sworde of Hazael Je<g ref="char:EOLhyphen"/>hu ſlayes, and hee eſcaping Jehus Sword Eliſha ſlayes,</hi> becauſe the Land devided as thoſe waters by him parted with the mantell of <hi>Elias,</hi> wherewith <hi>Sayled over Jordan River,</hi> and ſuch virtue in it, be<g ref="char:EOLhyphen"/>in worne out by them, much more vi<g ref="char:EOLhyphen"/>gere then and Spirit in their Books be<g ref="char:EOLhyphen"/>ing peruſed and ſtudyed upon.</p>
+            <p>And Mother and Daughter alike too. Now ſhe caſt into a languiſhing
+<pb n="17" facs="tcp:196458:9"/>bed, confumed to nothing an <hi>Anato<g ref="char:EOLhyphen"/>my,</hi> &amp;c. ſcarce any thing to bury.</p>
+            <p>The occaſion of this LANDS <hi>deep</hi> CONSVMPTION <hi>SHE,</hi> And waſt made <hi>thereof: Woe to the Houſe of God,</hi> and the Houſe of PAR<g ref="char:EOLhyphen"/>LIAMENT both, the nurſing mo<g ref="char:EOLhyphen"/>ther of <hi>DRAGONS,</hi> thoſe <hi>Sonns</hi> of <hi>BELJALL</hi> in armes, foras her name is, ſo is ſhe MARRAH: <hi>The GALL of bitterneſſe.</hi>
+            </p>
+            <p>But becauſe the <hi>Daughter of a King</hi> as <hi>JEH<g ref="char:V">Ʋ</g>
+               </hi> ſpeake, <hi>Here forborne the Re<g ref="char:EOLhyphen"/>mainder, buryed in ſilence,</hi> for ſo births PREROGATIVE <hi>ſurmounts</hi> or <hi>goes</hi> before <hi>that gain'd</hi> by Marrage <hi>as deſent</hi> and <hi>blood,</hi> a Character not to be blot<g ref="char:EOLhyphen"/>ted out, where with follows the ſtate of
+<pb n="18" facs="tcp:196458:10"/>VIRGINITY, the preſidence theirs, <hi>Not in ſubjection as others.</hi>
+            </p>
+            <p>And for <hi>ELJAS</hi> progreſſe in the SPIRIT: The returne of thoſe long expected dayes, Let the READER be pleaſed for his ſatisfaction to turne but (to the <hi>Apocalyps</hi> the 11) And ſee in his COMMISSION to the <hi>Gentills. What date it beares there, concerning the revealed time of the Reſurrection, &amp;c. e<g ref="char:EOLhyphen"/>ven behold the Sevententh Centurye it mea<g ref="char:EOLhyphen"/>ſured out by moneths and dayes, amoun<g ref="char:EOLhyphen"/>ting</hi> unto three years and halfe, the halfe of ſeaven like the time nothing, but divisſion, including the great mi<g ref="char:EOLhyphen"/>ſticall weeke, expreſt ſeverall &amp; divers wayes. A touch <hi>of</hi> which time <hi>folded</hi> up with that <hi>ſevenfold</hi> marriage, put the <hi>queſtion</hi> in the <hi>reſurection whoſe wife,</hi> &amp;c.</p>
+            <p>VVherefore of the laſt (turned)
+<pb n="19" facs="tcp:196458:10"/>Houre-Glaſſe of time, Thus <hi>(Revel. &amp;c.) And in the ſame Houre a great Earth Quake and the tenth part of the</hi> CI<g ref="char:EOLhyphen"/>TY <hi>fell, and ſlaine Seven Thouſand, De<g ref="char:EOLhyphen"/>cima Pars, &amp;c. and</hi> thus pend with the <hi>Character</hi> of the preſent when <hi>Elias</hi> his <hi>dayes ſhall appeare againe,</hi> their Reſur<g ref="char:EOLhyphen"/>rection or <hi>Revolution,</hi> as it were by a beſeiged City its modell, and yeelded or rendered up by the affrighted rem<g ref="char:EOLhyphen"/>nant, when ſuch publike Thanksgi<g ref="char:EOLhyphen"/>ving, ſaying, <hi>Wee give thee thanks O LORD GOD Almighty, which art and waſt, and art to come.</hi> Vtter'd (times) tre<g ref="char:EOLhyphen"/>ble voices, to weigh the time, &amp;c.</p>
+            <p>And as a Reformation time, to the greateſt part hatefull &amp; unſufferable: <hi>ſo the day of Judgements tydings as wellcome,</hi> like the writs of Parliament <hi>that news</hi> to
+<pb n="20" facs="tcp:196458:11"/>many alſo dreadfull, and deteſtable to the world, theſe makes it ſufficiently plaine, <hi>and the Nations were angry the time of the dead was come that they ſhould be judged, &amp;c. (ergo or</hi> viz.) <hi>to be manife<g ref="char:EOLhyphen"/>ſted</hi> to the <hi>Gentills,</hi> and ſo like the laſt Supper aforehand, ſhewing his death, likewiſe <hi>commands the little booke open'd to be received and eaten,</hi> as much to ſay, <hi>The laſt day revealed to be or afore ſhewed the Lords ſecond comming, &amp;c.</hi> Alſo by two witneſſes, to witt, the Bookes of <hi>Daniel</hi> and St. <hi>John, although reproved for his firy Spirit:</hi> That he was forward and ſudden <hi>in calling for the day of Judg<g ref="char:EOLhyphen"/>ment as it were:</hi> Then who knew not of what <hi>Spirit he was.</hi>
+            </p>
+            <p>And here like <hi>Elias</hi> and <hi>Elijah</hi> not to be parted <hi>(thoſe twain goeing along further
+<pb n="21" facs="tcp:196458:11"/>with the laſt time,</hi> thoſe aforeſaid mour<g ref="char:EOLhyphen"/>ning moneths 4.2. And a Thouſand two Hundred and Sixty dayes, and three dayes and a halfe, &amp;c. (<hi>Revela.</hi> 11.) all <hi>but ſounding the great dayes Alarme in the ſeventeenth Century:</hi> Then to watch <hi>as the time for the Elects cauſe pro<g ref="char:EOLhyphen"/>miſed to be cut off and ſhortned,</hi> to witt its comming ſhort of 2000. yeares, and ſo much for times ſentence, to be no long<g ref="char:EOLhyphen"/>er (<hi>Revela.</hi> 10.) <hi>And the Sacramentall tree of life,</hi> or Bookes of the old and new Teſtament, afore mentioned, <hi>And he therefore that ſhall add or deminiſh</hi> from the ſet time written by thoſe witneſſes <hi>let Him expect the plagues alſo proceeding out of their mouths, Peſtilence and Warre, &amp;c.</hi> otherwiſe that might have <hi>eſcaped</hi> death no few with <hi>Elias</hi> have been ta<g ref="char:EOLhyphen"/>ken alive up, debarred <hi>from</hi> entering
+<pb n="22" facs="tcp:196458:12"/>the reſt, &amp;c. as that figure of the Refur<g ref="char:EOLhyphen"/>rection, double witneſſed by <hi>Elijah</hi> a touch of whoſe Corps therby one rai<g ref="char:EOLhyphen"/>ſed up againe, but let downe into this Sepulchare.</p>
+            <p>So againe looking backe to <hi>Daniel</hi> touching the <hi>little Horne</hi> declaring or ſounding the brevitye of great <hi>Brit<g ref="char:EOLhyphen"/>taines</hi> Monarchie, <hi>(Whoſe looke more ſtoute then his fellows)</hi> more over thus I conſidered the <hi>Hornes, And there came up another little Horne, before whom three of the firſt Hornes were pluckt up by the roots,</hi> the truth of it as much as to ſay, <hi>That he the firſt Heire of the red roſe and the white.</hi> VVhoſe ISVE three of them Crown'd Princes childleſſe, <hi>deceaſing without Heires of their body,</hi> the Crown of <hi>England</hi> fell to <hi>Scotland, and great Brittaine ſo ſtiled,</hi> then wherefore bla<g ref="char:EOLhyphen"/>zoned
+<pb n="23" facs="tcp:196458:12"/>by thoſe great <hi>Beaſts foure being from name of Bruite derived,</hi> whoſe <hi>Vni<g ref="char:EOLhyphen"/>corns</hi> Horne become as ſhort as his fellowes. Lookeing of late as though al by conqueſt had been his, ſo according to his will wreſting and altering what<g ref="char:EOLhyphen"/>ſoever, and poſſeſt with no little will<g ref="char:EOLhyphen"/>fullneſſe as well as pride, proceeding <hi>from Ephneſſe</hi> and <hi>Shallowneſſe.</hi>
+            </p>
+            <p>And ſo from <hi>HENRY</hi> the fourths taking poſſesſion of the <hi>Kingdome,</hi> re<g ref="char:EOLhyphen"/>gained by <hi>EDWARD</hi> the fourth of thoſe royall Roſe ten in number (gi<g ref="char:EOLhyphen"/>ving the dunn Cow) ſo many even from the Houſe, <hi>of Lancaſters</hi> uſurpati<g ref="char:EOLhyphen"/>on untill the <hi>diadem</hi> fell to be <hi>Scotlands</hi> lott, all which diſplayed by thoſe <hi>Horns ten and another little Horne, &amp;c.</hi> as <hi>Co<g ref="char:EOLhyphen"/>rone</hi> being derived from <hi>Cornua,</hi> and <hi>Caroles</hi> a Diminative, &amp;c.</p>
+            <pb n="24" facs="tcp:196458:13"/>
+            <p>For ſaylingon, the VVind ſerving faire ſtill, or <hi>for proceeding with the</hi> Map <hi>of great Brittains laſt Parliament, ſo manifeſt,</hi> that whoſe Image this, who needs to doubt, as a little <hi>farther,</hi> I ſhall hold on, &amp;c. (<hi>J beheld, then be<g ref="char:EOLhyphen"/>cauſe of the</hi> great voice <hi>of the</hi> word which the Horne ſpake, <hi>J behold even till the Beaſt was ſlaine and his body given to the</hi> burning flame:) Some may ſay hath God care <hi>of Oxen?</hi> Yes doubtleſſe beholds even ſuch a Den or Draught <hi>of reſtleſse beaſtlineſse</hi> day and night, St. <hi>James</hi>-Fayre <hi>ſo called,</hi> not without Cauſe their Priviledge of late aboli<g ref="char:EOLhyphen"/>ſhed: As hereby appeares the Modell every of thoſe Courts put downe: VVhere ſo long ſuch Lawleſſe <hi>doings</hi> there, &amp;c.</p>
+            <p>(As for the reſt of the <hi>Beaſts,</hi> They
+<pb n="25" facs="tcp:196458:13"/>had their <hi>Dominion taken away:</hi> BVT their <hi>Liver were prolonged</hi>) as Hee no little or inferiour Beaſt for one, <hi>whoſe voice ſet a Note lower,</hi> brought to the barre, though ſo long deferred, <hi>yet whoſe Judgement ſleeps Not.</hi>
+            </p>
+            <p>
+               <hi>And then the Ancient of dayes,</hi> fitting in his Iudges Robe, and Locks like Snow, Even <hi>the day of Judgement clo<g ref="char:EOLhyphen"/>thed in the Parliaments likeneſſe:</hi> And the Parliament clouded under, or ſha<g ref="char:EOLhyphen"/>dow'd out by the day of Iudgement. <hi>His comming in the Clouds, ſo all in their pure wooll, ſet forth</hi> &amp; <hi>wooll Seats,</hi> and thus much for that: <hi>The judgement ſhall fit, and the Bookes were opened,</hi> the Bookes of the Old and New Teſtament alſo: <hi>Nothing covered that ſhall not be diſcloſed too and proclaimed.</hi>
+            </p>
+            <pb n="26" facs="tcp:196458:14"/>
+            <p>Likewiſe by thoſe <hi>Legions of An<g ref="char:EOLhyphen"/>gells,</hi> beſide the Parliaments everlaſt<g ref="char:EOLhyphen"/>ing ſitting, the warre raiſed, <hi>by them</hi> fet forth, <hi>like Dooms day as it were,</hi> when the Elements melting and the <hi>Heavens</hi> ſhaking, &amp; <hi>Stars falling, like</hi> thoſe Valies of Thunder-Bolts with light<g ref="char:EOLhyphen"/>nings, <hi>ſuch a firy Streame now making way:</hi> the generall dayes <hi>Epitome</hi> &amp; the con<g ref="char:EOLhyphen"/>cluſion of all theſe, <hi>Dan.</hi> 7.</p>
+            <p>(<hi>And the Kingdome and Dominion, and the greatneſſe of the Kingdome</hi> un<g ref="char:EOLhyphen"/>der the whole Heaven, <hi>Shall be given to the Saints of the moſthigh (OR R<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>LERS) whoſe Kingdome is an ever<g ref="char:EOLhyphen"/>laſting Kingdome.)</hi>
+            </p>
+            <p>As to no other given ſuch a high ſtile, except unto this Kingdome, &amp;c.
+<pb n="27" facs="tcp:196458:14"/>Hitherto is the end of the matter con<g ref="char:EOLhyphen"/>cerning the end, <hi>and as for Daniel his countenance changed,</hi> and his cogitations troubled. The troubleſometime be<g ref="char:EOLhyphen"/>fore the change, <hi>fore ſaw</hi> even <hi>our</hi> evill times, <hi>His heart bleeding too, &amp;c.</hi> And as <hi>Daniel</hi> ſignifying the <hi>judgement of God,</hi> ſo that <hi>Monſterous fourth Beaſt,</hi> as much to ſay; <hi>a <g ref="char:V">Ʋ</g>iperous gene<g ref="char:EOLhyphen"/>ration:</hi>
+            </p>
+            <p>Herewith is ſignyfied like <hi>Joſephs</hi> &amp; <hi>Pharoahs</hi> dreams doubled, even the ſeventeenth hundred yeare: By this very meaſure doubled to bee likewiſe: a <hi>Time and times, &amp; the deviding of time,</hi> or three and a halfe, (viz. 7.) <hi>Surge &amp; metire templum, (Revel.</hi> 11.) followes <hi>tempus &amp; tempora, &amp; dimidium temporis.</hi> The Reſurrections time hereby mea<g ref="char:EOLhyphen"/>ſured even in the preſent <hi>Century</hi> cut <hi>in
+<pb n="28" facs="tcp:196458:15"/>the midſt too</hi> (as it were) <hi>Paradventure fifty there, &amp;c.</hi> And paradventure there ſhall lacke five of fifty, expreſt in the day of judgements very language, as <hi>ſhall not the Judge of all the earth doe right,</hi> and <hi>Abram</hi> he but Duſt and Aſhes then.</p>
+            <p>VVith whom ſaying, <hi>Now J have taken upon me to ſpeake,</hi> cannot here reſt ſhewing farther, as <hi>Noah outlived</hi> the Flood, three hundred years and dyed, two thouſand years after the Creation, likewiſe <hi>now</hi> the time abated or comes ſhort 300. years, wherefore the diſolu<g ref="char:EOLhyphen"/>tion in the ſeventeenth hundred yeare, and thus cut off ſo many yeares, like the ſhortned dayes of <hi>Enoch whom God tooke,</hi> who lived three hundred yeares and <hi>Eternitys</hi> forerunner <hi>begat Me<g ref="char:EOLhyphen"/>theuſeliah,</hi> thus five <hi>hundred</hi> years a<g ref="char:EOLhyphen"/>mounts
+<pb n="29" facs="tcp:196458:15"/>to a PERIOD, <hi>as deeply ſworne the Time ſhould be longer, (Reve<g ref="char:EOLhyphen"/>la.</hi> 10.) meaſured by the CREA<g ref="char:EOLhyphen"/>TORS his right hand lifted up, <hi>Tem<g ref="char:EOLhyphen"/>pus non erit amplius, ſed in diebus vocis ſeptimi Angeli: Times miſtery revealed, &amp;c.</hi> as promiſed to be witneſſed by the Prophets, <hi>his ſervants concerning</hi> times TRVMPET then put to ſi<g ref="char:EOLhyphen"/>lence time no more, &amp;c.</p>
+            <p>And laſtly for MICHAELMVS (1644) <hi>That happie halfe yeare herein in<g ref="char:EOLhyphen"/>cluded,</hi> a time and times and halfe alſo, <hi>to diſperſe the Forces, &amp;c. Revela. the</hi> 12. <hi>and Dan. the</hi> 12. concerning <hi>Micha<g ref="char:EOLhyphen"/>els alarme,</hi> there ſignified and ſo like a Thiefe in the night as this fearful night viſſion, appeares even the end ſtolne upon the whole world, or comming as the travel of a VVoman miſreckoning
+<pb n="30" facs="tcp:196458:16"/>ſometimes taken before <hi>SHE</hi> looks.</p>
+            <p>Alſo farther for this laſt of Parlia<g ref="char:EOLhyphen"/>ments, &amp; <hi>whereas Gods word able to ſpeake for it ſelfe of full age,</hi> other argument whatſoever, needleſſe, it being of a quicker returne, <hi>ſhall preſſe another place of Scripture,</hi> as briefly explaind as o<g ref="char:EOLhyphen"/>thers afore, <hi>Reve.</hi> 10.9. <hi>Concerning that Albion Army, and Aleluja voices where even the revealed time of the Lords com<g ref="char:EOLhyphen"/>ming.</hi> And the writs of this happie Par<g ref="char:EOLhyphen"/>liament ſealed up in one: <hi>Scribe Beata,</hi> &amp;c. <hi>They that are called to this meeting,</hi> &amp;c. All ſealed with the Vnicorne in pure Paper, as it were mounted on white Horſes, or like the great ſhew. both going together: as noted &amp;c.</p>
+            <p>
+               <hi>Nomen ſcriptum quod nemo novit, the Parliaments name in another language,</hi>
+               <pb n="31" facs="tcp:196458:16"/>viz. <hi>et vocabant nomen ejus verbum dei. The Word, &amp;c. et cum Juſtitia judicat, et pugnat. And upon his head many Crowns with a garment dipt in blood, deep Scarlet clothed,</hi> and on his veſture, and upon his legg written, &amp;c.</p>
+            <p>
+               <hi>Namely the Colour and Garter of the order the Knights of</hi> St. <hi>Gorge (Ecce e<g ref="char:EOLhyphen"/>quus Albus)</hi> likewiſe from <hi>Chival</hi> and <hi>Equus.</hi> And thus the Knights and Eſ<g ref="char:EOLhyphen"/>quires of both Houſes diſplayed, of what houſe, and ſo from the name of <hi>Oxford,</hi> thus, <hi>et vidi Beaſtiam et Regis terrae et exercitus,</hi> &amp;c. Revela. 10.9.</p>
+            <p>And for the aforeſaid warre ſo farr, as for the motive, <hi>Meritrice magna qui corrupit terram in proſtitutione ſua, &amp;c.</hi> Hath bin ſhew'd afore where ſhe pain<g ref="char:EOLhyphen"/>ted
+<pb n="32" facs="tcp:196458:17"/>like her Images that downfall of Hers before theirs.</p>
+            <p>Alſo added theſe to the premiſes be<g ref="char:EOLhyphen"/>cauſe injoyned not to part, or put aſun<g ref="char:EOLhyphen"/>der what is joyn'd, ſhewed <hi>Farthermore, The great Jmage,</hi> (<hi>Dan.</hi> 2.) even <hi>armed at all points,</hi> the verity of thoſe foure Me<g ref="char:EOLhyphen"/>tals, <hi>ore</hi> Argent, &amp;c. the very ſame like<g ref="char:EOLhyphen"/>wiſe divers one from another. Aper<g ref="char:EOLhyphen"/>tains to <hi>the foure great Beaſts the one ri<g ref="char:EOLhyphen"/>ſing out of the Earth, the other out of the Sea.</hi>
+            </p>
+            <p>So contains Caeſars Superſcription even <hi>the Roman Empires age,</hi> written in in thoſe Characters of the 3. Ribs, 4. VVings and the 10. Horns and then <hi>thoſe Eagles wings ſo lifted up pluckt too,</hi> notwithſtanding <hi>Germanies</hi> manly looks, that Saxon ſtate: like this great
+<pb n="33" facs="tcp:196458:17"/>
+               <hi>Statue</hi> unable <hi>longer</hi> to ſtand upon its feet, not unlike <hi>Irelands eſtate,</hi> the mo<g ref="char:EOLhyphen"/>dell of that <hi>Empire</hi> in ſuch a flouriſhing condition, <hi>and as the blow then in the</hi> 17. <hi>yeare of the preſent reigne,</hi> ſo the other in the 1700. &amp;c. broken ſo ſoon in peices: <hi>Wherefore the world but like a Dreame va<g ref="char:EOLhyphen"/>niſhed:</hi> Like his ſuddain awaking in a moment forgotten all, &amp;c.</p>
+            <p>But now returning to great <hi>Brittains brittle condition</hi> againe: <hi>That union diſſol<g ref="char:EOLhyphen"/>ved and broken in peices ſince his dayes:</hi> He the head of GOLD, as by thoſe pei<g ref="char:EOLhyphen"/>ces called <hi>JACOB<g ref="char:V">Ʋ</g>S,</hi> after his name, &amp;c. And he the ROMAN SPA<g ref="char:EOLhyphen"/>NISH Emperour by his tribute of late, ſince the <hi>Judies diſcovery, who makes up the head of Gold too:</hi> And all this but to manifeſt and ſhew. <hi>That God is a Re<g ref="char:EOLhyphen"/>vealer
+<pb n="34" facs="tcp:196458:18"/>of Secrets in theſe dayes alſo:</hi> Reve<g ref="char:EOLhyphen"/>ales the deep and ſecret things, <hi>And maketh known what ſhall be in the Latter dayes, by divers &amp; ſeverall demonſtrations, as this for another: Of</hi> the <hi>Axe laid to the roote: That tree or pedigree whoſe fruit much of ſuch a hight,</hi> reached up to Hea<g ref="char:EOLhyphen"/>ven, <hi>this Jacobs Ladder, &amp;c.</hi> And now but the Stump end remains as yee ſee.</p>
+            <p>The very VVoods every where proclaims it, where the Axe never put ſo to the Root, <hi>ſuch felling, &amp;c. And ſo the Axe that fell into the water, by a ſticke caſt into it, cauſed to ſwime:</hi> The Morrall thereof no other then the <hi>Reſurrection time revealed to be by the Spirit of prophe<g ref="char:EOLhyphen"/>ſie.</hi> As much to ſay, As the late hand writing for a ſeale or ſigne of it, <hi>a ſuffi<g ref="char:EOLhyphen"/>cient propheticall proclamation though not
+<pb n="35" facs="tcp:196458:18"/>on the Walls, &amp;c.</hi> in the Banquetting-Houſe, yet not unknown to Lord <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o few how theſe applied. <hi>Thy King<g ref="char:EOLhyphen"/>dome numbred, and thou found wanting,</hi> &amp;c. and come to paſſe <hi>too,</hi> as publiſhed and printed, 1633. <hi>ſufficiently</hi> known, <hi>in meeter to his Majeſtie</hi> from great Babylon <hi>transferred to great Brittain.</hi>
+            </p>
+            <p>And ſo this but the truth of it (<hi>ſhew<g ref="char:EOLhyphen"/>ed in the</hi> 12. <hi>of the Revelation</hi>) How Satan becauſe he knows his reigne or time to be ſhort: is ready to devoure the VVoman even for the truth of the Reſurrection time revealed, <hi>as moſt pro<g ref="char:EOLhyphen"/>per to be performed by that ſex, a Woman by whom death came to be the Meſſenger of Life.</hi> And ſo, <hi>WOE TO THE IN<g ref="char:EOLhyphen"/>HABJTERS of the EARTH, and of the SEA, &amp;c.</hi>
+            </p>
+            <p>And ſince a pleaſing Theame (as
+<pb n="36" facs="tcp:196458:19"/>tis ſaid) makes a good Orator, and ſure I am a worſe time then this never known or ever heard of, ſo then the time the end diſcovered, although <hi>pend</hi> ſomewhat haſtily or unperfectly, &amp;c. being like the hony: and like the hony gathered out of ſo many parts, I ſhall the leſſe need to excuſe it unto ſuch as have a ful knowledge of the Scriptures, That ſhould it be written at large a Chronicle or a booke as ample as thoſe tables, of the Mapps of the VVorld could I ſuppoſe not contain it.</p>
+            <p>Not ſutable to the little book, being but an <hi>Epittomie</hi> as it were, and ſo much for being not voluminous, eſpecially when the time <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſhort too: as by <hi>Ty<g ref="char:EOLhyphen"/>rant time his reigne expired,</hi> ſhew'd to be and theſe the apointed Scutchins for
+<pb n="37" facs="tcp:196458:19"/>his Herſſe apeared, thoſe winged <hi>Beaſts devouring times likeneſſe, &amp;c.</hi>
+            </p>
+            <p>As by this one wittneſſe more pro<g ref="char:EOLhyphen"/>duced or ſet forth: <hi>aſigned to the preſent,</hi> even in the dayes of theſe Kings, or u<g ref="char:EOLhyphen"/>nited Kingdoms: <hi>Shall the God of Hea<g ref="char:EOLhyphen"/>ven ſet up a Kingdome which never be di<g ref="char:EOLhyphen"/>ſtroyed.</hi> And the Kingdome ſhal not be left to other, &amp;c. And ſhall breake in peices, even to the ſame effect, with that (<hi>Dan.</hi> the 7.) <hi>The greatneſſe of the Kingdome under the whole Heaven, for e<g ref="char:EOLhyphen"/>ver given to the Saints (or Rulers, &amp;c.)</hi> which ſhall breake in peices, &amp;c. viz. By thoſe ordinance or orders of Parlia<g ref="char:EOLhyphen"/>ments, and feild peices, &amp;c.</p>
+            <p>And yet not ſo ſtrange as true; not<g ref="char:EOLhyphen"/>withſtanding ſuch a troubleſome time
+<pb n="38" facs="tcp:196458:20"/>
+               <hi>O let Jſmale live as it were,</hi> prefer'd be<g ref="char:EOLhyphen"/>fore <hi>Jſaac to be his Heire,</hi> And <hi>Abſolons</hi> life before <hi>Solomon the wiſe (O Abſolon my ſonne Abſolon)</hi> Like <hi>Egypts</hi> Leekes &amp; Garlike before <hi>Canaans</hi> Grapes, &amp;c. And ſo preferred this worlds vanity &amp; folly before everlaſting Righteouſ<g ref="char:EOLhyphen"/>neſſe, <hi>endleſſe Joy, life eternall,</hi> and now ended thus this point of Honour, diſ<g ref="char:EOLhyphen"/>playing the <hi>Ancient of dayes his King<g ref="char:EOLhyphen"/>dome your portion</hi> to you dedicated: that ſo punctually have diſcharged that du<g ref="char:EOLhyphen"/>ty of the firſt commandement with promiſe, in ſo much and ſuch diſho<g ref="char:EOLhyphen"/>nour endured, have bene your mo<g ref="char:EOLhyphen"/>thers Copartner, even You, her alone and ſole ſupport under the Almighty. <hi>So <g ref="char:V">Ʋ</g>eni Domine Jeſu, gracia Domine, &amp;c.</hi>
+            </p>
+            <pb facs="tcp:196458:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
